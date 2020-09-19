@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="12866" started-at="2020-09-19T02:44:04Z" finished-at="2020-09-19T02:44:17Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12866" started-at="2020-09-19T02:44:04Z" finished-at="2020-09-19T02:44:17Z">
+      <class name="com.api.testscripts.AddBulkDataTest">
+        <test-method status="PASS" signature="checkBulkPost()[pri:0, instance:com.api.testscripts.AddBulkDataTest@73f792cf]" name="checkBulkPost" duration-ms="8226" started-at="2020-09-19T08:14:04Z" finished-at="2020-09-19T08:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBulkPost -->
+      </class> <!-- com.api.testscripts.AddBulkDataTest -->
+      <class name="com.api.testscripts.FetchAllPostsTest">
+        <test-method status="PASS" signature="getAllPosts()[pri:0, instance:com.api.testscripts.FetchAllPostsTest@79698539]" name="getAllPosts" duration-ms="1390" started-at="2020-09-19T08:14:16Z" finished-at="2020-09-19T08:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllPosts -->
+      </class> <!-- com.api.testscripts.FetchAllPostsTest -->
+      <class name="com.api.testscripts.CreateaNewDataTest">
+        <test-method status="PASS" signature="checkNewData()[pri:0, instance:com.api.testscripts.CreateaNewDataTest@2ed94a8b]" name="checkNewData" duration-ms="134" started-at="2020-09-19T08:14:13Z" finished-at="2020-09-19T08:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNewData -->
+      </class> <!-- com.api.testscripts.CreateaNewDataTest -->
+      <class name="com.api.testscripts.FetchAllCountriesTest">
+        <test-method status="PASS" signature="getAllCountry()[pri:0, instance:com.api.testscripts.FetchAllCountriesTest@6108b2d7]" name="getAllCountry" duration-ms="3083" started-at="2020-09-19T08:14:13Z" finished-at="2020-09-19T08:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCountry -->
+      </class> <!-- com.api.testscripts.FetchAllCountriesTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

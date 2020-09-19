@@ -1,0 +1,3 @@
+com\api\genericLib\BaseClass.class
+com\api\genericLib\RestAssuredCommonUtils.class
+com\api\genericLib\ApiConfig.class
